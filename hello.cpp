@@ -29,6 +29,7 @@ int main () {
   cout << "hello there again" << endl;
   cout << "change" << endl;
   cout << "hello" << endl;
+  cout << "hello mybranch" << endl;
 
   MyClass a(5);
   cout << a.getX() << endl;
